@@ -1,0 +1,16 @@
+#Han服专用分流规则
+
+DOMAIN-SUFFIX,stark.ddns.me
+DOMAIN-SUFFIX,de.ddns.me
+
+#cmi主服
+IP-CIDR,38.6.224.247/24
+IP-CIDR,38.6.224.247/24
+IP-CIDR,103.242.2.34/24
+
+#备用服
+IP-CIDR,154.7.182.137/24
+
+#私人域名解析（移动网使用）
+DOMAIN-SUFFIX,stark.kikiemby.top
+DOMAIN-SUFFIX,de.kikiemby.top
