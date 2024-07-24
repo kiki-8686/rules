@@ -7,6 +7,10 @@ DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,platform.openai.com
+DOMAIN-KEYWORD,chatgpt.com
+DOMAIN,api.revenuecat.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
 # Add ai.com
 DOMAIN-SUFFIX,ai.com
 # Add stripe.com
